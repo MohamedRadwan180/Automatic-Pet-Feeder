@@ -1,0 +1,8 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_UNO_R3,1,Arduino_UNO_R3,
+J1,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,Conn_01x04_Socket,
+"J10, J7, J8",TerminalBlock_bornier-2_P5.08mm,3,Conn_01x02_Pin,
+J11,PinHeader_1x09_P2.54mm_Vertical,1,Conn_01x09_Pin,
+"J12, J3, J4, J5",PinHeader_1x03_P2.54mm_Vertical,4,Conn_01x03_Pin,
+"J2, J6",PinHeader_1x04_P2.54mm_Vertical,2,Conn_01x04_Pin,
+J9,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
